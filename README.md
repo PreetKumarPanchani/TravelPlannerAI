@@ -5,8 +5,11 @@ A Gradio-based web application that generates personalized day trip itineraries 
 #### Features
 
 🌍 City-based itinerary generation
+
 🎯 Interest-based customization
+
 📋 Bullet-point formatted plans
+
 🖥️ Clean web interface using Gradio
 
 #### Project Demo
