@@ -17,6 +17,9 @@ A Gradio-based web application that generates personalized day trip itineraries 
 
 #### How It Works
 User enters a destination city
+
 User lists their interests (comma-separated)
+
 LLM generates a personalized itinerary
+
 Results are displayed in an easy-to-read format
