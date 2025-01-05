@@ -13,7 +13,6 @@ A Gradio-based web application that generates personalized day trip itineraries 
 🖥️ Clean web interface using Gradio
 
 #### Project Demo
-Here's how the application looks in action:
 ![Travel Planner Output](TravelPlannerAIGradioImage.png)
 
 #### How It Works
